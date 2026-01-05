@@ -1,3 +1,9 @@
+---
+title: "blog test - bandit 1~10"
+date: 2026-01-05
+categories: [notion, wargame]
+tags: [overthewire, bandit, linux]
+---
 # bandit level 0~10
 
 ## bandit0
