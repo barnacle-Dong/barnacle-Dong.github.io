@@ -1,5 +1,5 @@
 ---
-title: "blog test - bandit 1~10"
+title: "blog test"
 date: 2026-01-05
 categories: [notion, wargame]
 tags: [overthewire, bandit, linux]
